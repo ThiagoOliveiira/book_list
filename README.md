@@ -50,7 +50,3 @@ Utilizar a versão 3.35.4 do Flutter
 flutter pub get
 flutter run
 ```
-
-
-
-# book_list
